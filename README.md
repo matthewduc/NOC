@@ -1,10 +1,9 @@
 This project implements a network monitoring system using Prometheus and Grafana to track system performance and detect issues in real time.
 
 <!-- Badges -->
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)  
+![Build Status](https://img.shields.io/badge/development-initial-blue)  
 ![Development Stage](https://img.shields.io/badge/development-initial-blue)  
-![Python Version](https://img.shields.io/badge/python-3.11-blue)  
-![Docker Pulls](https://img.shields.io/badge/docker-pulls-100%2B-orange)  
+![Python Version](https://img.shields.io/badge/python-3.9-blue)  
 
 ## Architecture
 The system consists of:
