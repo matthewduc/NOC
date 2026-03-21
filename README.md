@@ -1,7 +1,7 @@
 This project implements a network monitoring system using Prometheus and Grafana to track system performance and detect issues in real time.
 
 <!-- Badges -->
-![Build Status](https://img.shields.io/badge/development-initial-blue)  
+![Build Status](https://img.shields.io/badge/build-initial-blue)  
 ![Development Stage](https://img.shields.io/badge/development-initial-blue)  
 ![Python Version](https://img.shields.io/badge/python-3.9-blue)  
 
