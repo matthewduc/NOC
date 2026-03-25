@@ -6,11 +6,8 @@ This project implements a network monitoring system using Prometheus and Grafana
 ![Python Version](https://img.shields.io/badge/python-3.9-blue)  
 
 ## Grafana Dashboard
-### Network Traffic
 ![Network Traffic](img/network_traffic.png)
-### CPU Usage
 ![6 Core Usage](img/cpu_usage.png)
-### Memory Usage
 ![Memory Usage](img/memory_usage.png)
 
 
