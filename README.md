@@ -49,7 +49,7 @@ Node Exporter provides lightweight system-level metrics without requiring heavy 
 
 ## Automation
 
-Scripts included:
+Scripts:
 
 - health_check.py → checks device availability
 - log_monitor.py → scans logs for errors
