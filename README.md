@@ -1,9 +1,18 @@
 This project implements a network monitoring system using Prometheus and Grafana to track system performance and detect issues in real time.
 
 <!-- Badges -->
-![Build Status](https://img.shields.io/badge/build-initial-blue)  
+![Build Status](https://img.shields.io/badge/build-complete-brightgreen)
 ![Development Stage](https://img.shields.io/badge/development-initial-blue)  
 ![Python Version](https://img.shields.io/badge/python-3.9-blue)  
+
+## Grafana Dashboard
+### Network Traffic
+![Network Traffic](img/network_traffic.png)
+### CPU Usage
+![6 Core Usage](img/cpu_usage.png)
+### Memory Usage
+![Memory Usage](img/memory_usage.png)
+
 
 ## Architecture
 The system consists of:
@@ -31,8 +40,8 @@ Node Exporter provides lightweight system-level metrics without requiring heavy 
 2. Run:
    docker compose up -d
 3. Access:
-   - Grafana: http://localhost:3000
-   - Prometheus: http://localhost:9090
+   - Grafana: http://<ip of vm>:3000
+   - Prometheus: http://<ip of vm>:9090
 
 ## Dashboards
 
